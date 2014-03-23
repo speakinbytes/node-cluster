@@ -1,0 +1,12 @@
+{
+    "name": "NodeCluster",
+    "version": "0.1.0",
+    "author": "Pablo Ojeda",
+    "description": "learning cluster in Node.js by SpeakinBytes",
+    "scripts": {
+        "start": "node ./server.js"
+    },
+    "dependencies" : {
+        "express"       : "~3.4"      
+    }
+}
